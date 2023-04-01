@@ -1,6 +1,6 @@
 🙋‍♂️ Sarbajyoti Mallik is Here! I have built Facebook 2.0 🔥 (Frontend + Backend) both with ASP.NET Core 🚀
 
-🔑 Key Features :- <br>
+🔑 Key Features :- <br> 
 👉 Upload Profile & Cover Picture with BIO <br>
 👉 Upload Post with Photos and Videos <br>
 👉 Like and Comment Posts <br>
